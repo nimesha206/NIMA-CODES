@@ -15,7 +15,7 @@ res.sendFile(__path + '/main.html')
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
-    console.log(`Dont forget to star and fork my repo\nGitHub: @LORDMEGA-MD/MEGA-MD\nAuthor: LORDMEGA\n\nMEGA-MD is running on running on http://localhost:` + PORT)
+    console.log(`Dont forget to star and fork my repo\nGitHub: @LORDMEGA-MD/MEGA-MD2\nAuthor: LORDMEGA\n\nMEGA-MD2 is running on running on http://localhost:` + PORT)
 })
 
 module.exports = app
