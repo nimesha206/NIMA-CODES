@@ -54,12 +54,14 @@ Generate session IDs for WhatsApp bots by LordMega  using [`@whiskeysockets/bail
 
 <p align="center">
   <a href="https://github.com/LORDMEGA-MD">
-    <img src="https://cdn.ironman.my.id/i/ttlm6m.jpg" width="210" height="210" alt="Lord mega"/>
+    <img src="https://cdn.ironman.my.id/i/ttlm6m.jpg" width="200" height="200" alt="Lord mega"/>
   </a>
 </p>
 
 📬 [`Contact Mega on WhatsApp`](https://wa.me/256753679393?text=>%20Hey%20mega𓃵,)
+
 🪀🙏 [`Please Follow my whatsApp channel for updates`](https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w)
+
 ---
 
 
