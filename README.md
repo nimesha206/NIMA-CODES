@@ -58,8 +58,8 @@ Generate session IDs for WhatsApp bots by LordMega  using [`@whiskeysockets/bail
   </a>
 </p>
 
-📬 [`Contact Mega on WhatsApp`](https://wa.me/256753679393?text=> Hey%20mega𓃵,)
-🪀 [`Please Follow my whatsApp channel for updates`](https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w)
+📬 [`Contact Mega on WhatsApp`](https://wa.me/256753679393?text=>%20Hey%20mega𓃵,)
+🪀🙏 [`Please Follow my whatsApp channel for updates`](https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w)
 ---
 
 
