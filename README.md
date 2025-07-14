@@ -22,8 +22,8 @@ Generate session IDs for WhatsApp bots by LordMega  using [`@whiskeysockets/bail
 
 ## 🧩 Features
 
-- 🔐 Generates sessions for **any Baileys bot**
-- ☁️ Stores sessions securely with **MEGA**
+- 🔐 Generates Mega full creds.json for **any Baileys bot**
+- ☁️ Stores creds securely with **MEGA**
 - 📱 Web-based **Code Pair Pairing**
 - 🚀 One-click deploy to:
   - Heroku
